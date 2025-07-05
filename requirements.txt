@@ -4,4 +4,5 @@ pandas==2.2.1
 requests==2.31.0
 python-dotenv==1.0.1
 pytz==2024.1
-git+https://github.com/mrjbq7/ta-lib.git@TA_Lib-0.4.28
+# REMOVE TA-Lib entirely
+pandas-ta==0.3.14b  # Alternative library
