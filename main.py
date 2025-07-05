@@ -13,7 +13,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 from dotenv import load_dotenv
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-import talib  # Technical Analysis Library
+import pandas_ta as ta
 
 # Load environment variables
 load_dotenv()
