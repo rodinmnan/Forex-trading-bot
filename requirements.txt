@@ -4,4 +4,4 @@ pandas==2.2.1
 requests==2.31.0
 python-dotenv==1.0.1
 pytz==2024.1
-TA-Lib==0.4.28
+git+https://github.com/mrjbq7/ta-lib.git@TA_Lib-0.4.28
