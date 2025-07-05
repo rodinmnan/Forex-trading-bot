@@ -4,5 +4,4 @@ pandas==2.2.1
 requests==2.31.0
 python-dotenv==1.0.1
 pytz==2024.1
-# REMOVE TA-Lib entirely
-pandas-ta==0.3.14b  # Alternative library
+pandas-ta==0.3.14b
